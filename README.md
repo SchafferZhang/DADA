@@ -5,7 +5,7 @@
 
 
 DADA: Deep Adversarial Data Augmentation for Extremely Low Data Regime Classification
-![image](https://github.com/SchafferZhang/DADA/tree/master/imgs/1.png)
+![image](https://github.com/SchafferZhang/DADA/blob/master/imgs/1.png)
 CIFAR10, SVHN experiments in the cifar10-svhn folder
 CIFAR100 experiments in the cifar100 folder
 Tumor classification experiments in the folder DDSM
@@ -43,11 +43,11 @@ run the generation.py and classification.py
 
 ## Results
 Our DADA model shows an competitive results on CIFAR10 data set
-![image](https://github.com/SchafferZhang/DADA/tree/master/imgs/2.png)
+![image](https://github.com/SchafferZhang/DADA/blob/master/imgs/2.png)
 
 ## Vision
-![image](https://github.com/SchafferZhang/DADA/tree/master/imgs/3.png)
-![image](https://github.com/SchafferZhang/DADA/tree/master/imgs/4.png)
+![image](https://github.com/SchafferZhang/DADA/blob/master/imgs/3.png)
+![image](https://github.com/SchafferZhang/DADA/blob/master/imgs/4.png)
 
 ## Acknowledgments
 We heavily borrow the code from [Improved-GAN](https://github.com/openai/improved-gan)
