@@ -43,7 +43,7 @@ run the generation.py and classification.py
 
 ## Results
 ### Emotion Recognition from Facial Expressions: Comparison with Transfer Learning (TL)
-Transfer learning is often an effective choice for problems short of traing data. But their effectiveness is limited when there are domain mismatches. Our proposed method show competive performance compared to other GAN-based augmentation technique. 
+Transfer learning is often an effective choice for problems short of training data. But their effectiveness is limited when there are domain mismatches. Our proposed method shows competitive performance compared to other GAN-based augmentation techniques. 
 
 |TL (baseline)|vanilla GAN|Improved GAN| DADA|
 |--------|:------:|:------:|:------:|
