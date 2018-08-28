@@ -44,12 +44,14 @@ run the generation.py and classification.py
 ## Results
 ### Emotion Recognition from Facial Expressions: Comparison with Transfer Learning (TL)
 Transfer learning is often an effective choice for problems short of traing data. But their effectiveness is limited when there are domain mismatches. Our proposed method show competive performance compared to other GAN-based augmentation technique. 
+
 |TL (baseline)|vanilla GAN|Improved GAN| DADA|
 |--------|:------:|:------:|:------:|
 |82.86%|83.27%|84.03%|**85.71%**|
 
 ### Brain Signal Classification: No Domain Knowledge Can be Specified for Augmentation
 The following table shows the performance advantage of DADA over the competitive CNN-SAE method in all nine subjects, with an average accuracy margin of 1.7 percent.
+
 |Method |  Sub. 1 |  Sub. 2  | Sub. 3  | Sub. 4  | Sub. 5 | Sub. 6 | Sub. 7 | Sub. 8 | Sub. 9 | **Average**|
 |-------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
  |SVM | 71.8 | 64.5 | 69.3 | 93.0 | 77.5 | 72.5 | 68.0 | 69.8 | 65.0 | 72.4 |
@@ -59,6 +61,7 @@ The following table shows the performance advantage of DADA over the competitive
 
 ### Tumor Classification: Comparison with Other Learning-based Augmentation
 The results shows the clear advantage of our approaches.
+
 |Method|Acc|
 |--------|:--------:|
 |Tanda (MF)|0.5990|
