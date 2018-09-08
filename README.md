@@ -5,6 +5,7 @@
 
 
 DADA: Deep Adversarial Data Augmentation for Extremely Low Data Regime Classification
+See: https://arxiv.org/abs/1809.00981
 ![image](https://github.com/SchafferZhang/DADA/blob/master/imgs/1.png)
 CIFAR10, SVHN experiments in the cifar10-svhn folder
 CIFAR100 experiments in the cifar100 folder
